@@ -61,7 +61,14 @@ const About: React.FC = (): JSX.Element => {
                                                         <Text size={30} weight="bold" color="white">
                                                             Cloutchain
                                                         </Text>
-                                                        <Button className="bg-sky-600" my={30}>
+                                                        <Button
+                                                            className="bg-sky-600"
+                                                            my={30}
+                                                            onClick={() =>
+                                                                (window.location.href =
+                                                                    "https://test-cc-ecru.vercel.app/")
+                                                            }
+                                                        >
                                                             Link
                                                         </Button>
                                                     </Flex>
@@ -94,7 +101,14 @@ const About: React.FC = (): JSX.Element => {
                                                         <Text size={30} weight="bold" color="white">
                                                             Hypersona
                                                         </Text>
-                                                        <Button className="bg-sky-600" my={30}>
+                                                        <Button
+                                                            className="bg-sky-600"
+                                                            my={30}
+                                                            onClick={() =>
+                                                                (window.location.href =
+                                                                    "https://test-refpebnpu-gerald-diego54.vercel.app/")
+                                                            }
+                                                        >
                                                             Link
                                                         </Button>
                                                     </Flex>
@@ -127,7 +141,14 @@ const About: React.FC = (): JSX.Element => {
                                                         <Text size={30} weight="bold" color="white">
                                                             Finance Chrome
                                                         </Text>
-                                                        <Button className="bg-sky-600" my={30}>
+                                                        <Button
+                                                            className="bg-sky-600"
+                                                            my={30}
+                                                            onClick={() =>
+                                                                (window.location.href =
+                                                                    "https://gerald-diego54.github.io/finance-chrome-ui/main")
+                                                            }
+                                                        >
                                                             Link
                                                         </Button>
                                                     </Flex>
