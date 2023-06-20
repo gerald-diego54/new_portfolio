@@ -39,10 +39,10 @@ const Hero: React.FC = (): JSX.Element => {
                             />
                         </Center>
                         <Text color="white" className="w-fit" mt={30} align="justify">
-                            Gerald Diego is a Undergraduate of BS Information Technology in Our Lady of Fatima
-                            University ( 2019 ) and graduate of Philippine Bootcamp in year of ( 2022 ) which is
-                            <i className="font-bold"> KodeGo Bootcamp</i> own by 917Ventures builder by Globe
-                            Corporation. He has a less than 1 year experience in Javascript and Laravel Web Development
+                            Gerald Diego is a Senior High School graduate in Our Lady of Fatima University ( 2019 ) and
+                            graduate of Philippine Bootcamp in year of ( 2022 ) which is
+                            <i className="font-bold"> KodeGo Bootcamp</i> owned by 917Ventures a venture builder of
+                            Globe Corporation. He has a year experience in Software Development.
                         </Text>
                     </Container>
                 </Grid.Col>
