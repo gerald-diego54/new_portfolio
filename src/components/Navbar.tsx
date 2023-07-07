@@ -11,7 +11,7 @@ const Navbar: React.FC = (): JSX.Element => {
                 Gerald Diego
             </Anchor>
             <Flex className="py-4 hidden md:flex" justify="flex-end" align="center" direction="row" gap="md">
-                <Anchor href="/resume.pdf" download className="text-white text-xl cursor-pointer">
+                <Anchor href="/resume-update.pdf" download className="text-white text-xl cursor-pointer">
                     Download CV
                 </Anchor>
                 <Anchor href="mailto:geralddiego42@gmail.com" className="text-white text-xl cursor-pointer">
